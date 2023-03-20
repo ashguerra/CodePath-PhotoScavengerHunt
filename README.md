@@ -1,6 +1,6 @@
 # Project 4 - Photo Scavenger Hunt
 
-Submitted by: **Your Name Here**
+Submitted by: Ashley Guerra
 
 Photo Scavenger Hunt is an app that allows user to attach photos of their favorite places to visit with their respective location.
 
