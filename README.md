@@ -35,7 +35,7 @@ GIF created with ... (https://getkap.co/) for macOS
 
 ## Notes
 
-Project was challenging to create from scratch.
+Project was somewhat challenging to create from scratch.
 
 ## License
 
