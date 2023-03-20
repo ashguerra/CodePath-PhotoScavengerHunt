@@ -31,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 ![](https://i.imgur.com/TUk5VvZ.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ... [Kap](https://getkap.co/) for macOS
+GIF created with ... (https://getkap.co/) for macOS
 
 ## Notes
 
